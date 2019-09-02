@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SocketLibrary:jar">
+    <output-path>D:/Coding/Java/libs</output-path>
+    <root id="archive" name="SocketLibrary.jar">
+      <element id="module-output" name="SocketLibrary" />
+    </root>
+  </artifact>
+</component>
